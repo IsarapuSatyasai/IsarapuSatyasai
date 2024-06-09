@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyasai Esarapu</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align='right' alt='Coding' width='400' src='animated_coding.git.gif'>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isarapusatyasai&label=Profile%20views&color=0e75b6&style=flat" alt="isarapusatyasai" /> </p>
 
 - 🔭 I’m currently working on **Chat Bot**
 
