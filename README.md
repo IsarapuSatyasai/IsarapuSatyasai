@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyasai Esarapu</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src='animated_coding.git.gif'>
+<img align='right' alt='Coding' width='400' src='animated_coding.git.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isarapusatyasai&label=Profile%20views&color=0e75b6&style=flat" alt="isarapusatyasai" /> </p>
 
 - 🔭 I’m currently working on **Chat Bot**
@@ -10,6 +10,8 @@
 - 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **esarapusathyasai603@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/IsarapuSatyasai/IsarapuSatyasai/blob/main/Prachet_Shah_Resume.pdf](https://github.com/IsarapuSatyasai/IsarapuSatyasai/blob/main/Prachet_Shah_Resume.pdf)
 
 - ⚡ Fun fact **I'm binge-watching anime.**
 
