@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **esarapusathyasai603@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/IsarapuSatyasai/IsarapuSatyasai/blob/main/Prachet_Shah_Resume.pdf](Prachet_Shah_Resume.pdf)
+- 📄 Know about my experiences [Prachet_Shah_Resume.pdf](https://github.com/IsarapuSatyasai/IsarapuSatyasai/blob/main/Prachet_Shah_Resume.pdf)
 
 - ⚡ Fun fact **I'm binge-watching anime.**
 
