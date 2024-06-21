@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **esarapusathyasai603@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/IsarapuSatyasai/IsarapuSatyasai/blob/main/satyasai_resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/IsarapuSatyasai/IsarapuSatyasai/blob/main/satyasai_ds_resume.pdf)
 
 - ⚡ Fun fact **I'm binge-watching anime.**
 
